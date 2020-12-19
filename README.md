@@ -13,8 +13,8 @@ Three types of events
 Observations
 1. As time passes the distance between the busses changed and after 8 hours of simulation, all busses arrived at the same stop and the poeple waiting at the bus stops
 increased over time.
-2. Experiments are performed for different scenarios to keep the distance between the busses unifrom and to observe the minimum, maximum ane average number of people 
-   waiting at bus stops number of people waiting at each bus stop.
+2. Experiments are performed for different scenarios to keep the distance between the busses unifrom and to observe the minimum, maximum and average number of people 
+   waiting at each bus stop.
    
 Experiments
 1. Board the number of people at every bus stop which is equal to the average of all the queues at bus stops.
