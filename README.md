@@ -3,11 +3,10 @@ Simulation of the bus system by generating exponentially random events for the p
 
 Simulation is performed for the busses whch are arriving at same time and distributed uniformly along the route.
 
-Events
+Below are the events which are taken into consideration while performing simulation :
 
-Three types of events
-1. Arrival of the bus at bus stop
-2. Boarder baording the bus
+1. Arrival of the busses at bus stops.
+2. Boarder baording the bus.
 3. Person arrving at bus stop which is distributed exponentially.
 
 Observations
