@@ -1,7 +1,7 @@
 # Bus-Service-Simulation
 Simulation of the bus system by generating exponentially random events for the people arriving at Bus Stop.
 
-Simulation is performed for the busses whch are arriving at same time and distributed uniformly along the route.
+Simulation is performed for the busses which are arriving at same time and distributed uniformly along the route.
 
 Below are the events which are taken into consideration while performing simulation :
 
