@@ -17,11 +17,7 @@ Observations
 increased over time.
 2. Experiments are performed for different scenarios to keep the distance between the busses unifrom and to observe the minimum, maximum and average number of people 
    waiting at each bus stop.
-   
-Experiments
-1. Board the number of people at every bus stop which is equal to the average of all the queues at bus stops.
-2. Stop all the busses at bus stop for only inter arrival rate time of the person arriving at bus stop.
-3. Board the number of people which is equal to the minimum of all the queues at bus stops.
+
 
 
 
